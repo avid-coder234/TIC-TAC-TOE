@@ -1,1 +1,1 @@
-# TIC-TAC-TOE
+Welcome to my Tic Tac Toe game! This web application, developed with HTML, CSS, and JavaScript, provides an immersive gaming experience. The responsive design ensures compatibility across devices, while the intuitive interface showcases my front-end development skills. Explore the code and enjoy the simplicity and functionality of this classic game.
